@@ -26,8 +26,8 @@
       sudo userdel opr3
    ![Screenshot 2025-03-20 171207](https://github.com/user-attachments/assets/5ebfd68e-f631-4c4c-9102-9eed6112ccce)
 
-      (b)To delete opr3 and its home directory:
-      sudo userdel -r opr3
+      (b)To delete opr2 and its home directory:
+      sudo userdel -r opr2
   ![Screenshot 2025-03-20 171243](https://github.com/user-attachments/assets/b156aba9-5f38-4a0d-9407-e40fb1c7fb34)
 
    
